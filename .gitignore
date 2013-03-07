@@ -1,0 +1,8 @@
+# Compiled Python files
+*.pyc
+
+# The devserver files
+*.pid
+
+# The output
+output/
