@@ -1,7 +1,7 @@
 Title: How to handle .core files
 Date: 2013-03-07
 Category: Development
-Tags: linux, unix
+Tags: linux, unix, admin
 Summary: A way to handle .core files
 
 When I develop or debug C++ program, I often have to deal with `.core` files that arise from crashes.
