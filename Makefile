@@ -9,12 +9,12 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=ftp.freelan.org
 FTP_USER=freelan
-FTP_TARGET_DIR=/tips/
+FTP_TARGET_DIR=tips/
 
 SSH_HOST=ftp.freelan.org
 SSH_PORT=22
 SSH_USER=freelan
-SSH_TARGET_DIR=/tips/
+SSH_TARGET_DIR=tips/
 
 DROPBOX_DIR=~/Dropbox/Public/
 
