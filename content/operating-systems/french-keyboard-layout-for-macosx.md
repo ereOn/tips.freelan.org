@@ -9,6 +9,6 @@ Tired of fighting my muscle-memory, I connected my PC usb keyboard but had to do
 
 For that I used [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) which is a *free* Mac OS X software.
 
-The result is [here](./static/French - PC.keylayout).
+The result is [here](/static/French - PC.keylayout).
 
 Enjoy.
