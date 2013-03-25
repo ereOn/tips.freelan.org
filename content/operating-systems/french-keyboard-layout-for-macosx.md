@@ -11,4 +11,6 @@ For that I used [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nr
 
 The result is [here](/static/French - PC.keylayout).
 
+Put it in "/Library/Keyboard\ Layouts".
+
 Enjoy.
