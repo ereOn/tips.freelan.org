@@ -14,6 +14,7 @@ Luckily enough, that's easy to fix.
 Open a terminal and type:
 
 > mkdir ~/Library/KeyBindings
+
 > vim ~/Library/KeyBindings/DefaultKeyBinding.dict
 
 And make sure the file has the following content:
