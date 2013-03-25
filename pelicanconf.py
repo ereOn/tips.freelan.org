@@ -10,6 +10,9 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 LOCALE = 'C'
 
+# Static paths
+STATIC_PATHS = ['static']
+
 # Delete the output directory on update
 DELETE_OUTPUT_DIRECTORY = True
 
